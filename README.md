@@ -3,7 +3,7 @@
 
 This project can be used as reference by beginners to the 'infrastructure as code' (IaC) concept using Terraform and AWS cloud computing solutions, to setup a highly available (HA) and scalable (HS) cloud infrastructure in the shortest time possible.
 
-![AWS](img/aws-ico.png) ![Terraform](img/terraform-ico.png)
+![AWS](img/aws-ico.png) ![Terraform](img/terraform-ico2.png)
 
 
 # Scenario
